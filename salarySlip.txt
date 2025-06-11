@@ -1,9 +1,9 @@
 
 -------------Employee Salary Slip-----------
-		ID           :101
-		Name         :Abhishek
-		Basic Salary :50000.00
+		ID           :102
+		Name         :Sunny
+		Basic Salary :40000.00
 		DA           :10.00
 		HRA          :15.00
 		TAX          :5.00
-		Total Salary :60000.00
+		Total Salary :48000.00
