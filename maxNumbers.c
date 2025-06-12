@@ -5,7 +5,7 @@ int main()
 
     printf("Enter 3 numbers : ");
     scanf("%d%d%d",&a,&b,&c);
-    if(a>b && a>c)
+    if(a>=b && a>c)
     printf("Max number is %d",a);
 
     else if
