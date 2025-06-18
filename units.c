@@ -36,7 +36,7 @@ int main()
 
 }
   else amt=amt+(units*8);
-  printf("Amount is %d : ",amt);
+  printf("Amount is : %d",amt);
 
  return 0;
 
