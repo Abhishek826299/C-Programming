@@ -13,3 +13,6 @@ int main()
     printf("Factorial is %d",fact);
     return 0;
 }
+
+//Homework
+//Armstrong Number Program
