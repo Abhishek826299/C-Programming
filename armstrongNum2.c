@@ -9,7 +9,7 @@ int main()
     while(n>0)
     {
         r=n%10;
-        arm=(r*r*r)+arm;
+        arm=(r*r*r*r)+arm;
         n=n/10;
     }
     if(c==arm)
